@@ -85,8 +85,9 @@ This project explores a year-long dataset of air quality sensor readings collect
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-   cd exploratory_data_analysis_projects_amit_kharche/EDA_Air_Quality_Data_amit_kharche
+   git clone https://github.com/amitkharche/EDA_Air_Quality_Data_amit_kharche.git
+   cd EDA_Air_Quality_Data_amit_kharche
+
    ```
 
 2. **(Optional) Create and activate a virtual environment:**
